@@ -1,1 +1,13 @@
 
+{
+  "google_play": {
+    "latest_version": "1.1.1",
+    "minimum_version": "1.1.1",
+    "update_url": "",
+    "messages": {
+      "ar": "يتوفر تحديث جديد لتطبيق صلاتي.",
+      "fr": "Une nouvelle mise à jour de Salati est disponible.",
+      "en": "A new Salati update is available."
+    }
+  }
+}
